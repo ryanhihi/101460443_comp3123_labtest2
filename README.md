@@ -40,4 +40,4 @@ port:3000
 This app uses the OpenWeatherMap API, which requires an API key added in .env file
 
 ### Reference
-Background image retireved from  https://www.pexels.com/search/weather/
+Background image retireved from  Photo by Johannes Plenio from Pexels: https://www.pexels.com/photo/island-during-golden-hour-and-upcoming-storm-1118873/
