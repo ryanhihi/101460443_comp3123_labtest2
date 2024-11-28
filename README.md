@@ -38,3 +38,6 @@ port:3000
  ### API Key
 
 This app uses the OpenWeatherMap API, which requires an API key added in .env file
+
+### Reference
+Background image retireved from  https://www.pexels.com/search/weather/
