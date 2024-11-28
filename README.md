@@ -29,8 +29,11 @@ Default API
 Search for Dynamic Page:
 https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${API_KEY}&units=metric
 
- 
+![Terminal ](public/labtest2-3123-output.png)
 
+Output run from terminal 
+npm start
+port:3000
 
  ### API Key
 
